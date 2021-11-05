@@ -1,0 +1,58 @@
+<details>
+<summary>0:00</summary>
+<br>
+I love how simple it is, but it couldn't hurt to have the lower pitched synth on the and beat slowly change here. maybe a slow crescendo in, maybe a slow pan from side to side, just any little thing
+</details>
+<details>
+<summary>0:11</summary>
+<br>
+the little kick fill def sounds cool, but could use a bit more change to seperate it from the prior section. Nothing crazy, just maybe cut out all but the bass and high hat on the and beat for a measure before bringing them back full force for the next section. maybe add anticipation for the next section with starting the 16th note synth run with the space cleared out by dropping stuff in that measure
+</details>
+
+<details>
+<summary>0:12</summary>
+<br>
+I love rising sweeps plenty, but it's almost a little too smooth imo. maybe around 0:18 start sidechaining it to the kick? but manke an envelope for the severity so it goes from a slight sidechain to a cut for the fill at 0:22
+</details>
+
+<details>
+<summary>0:22</summary>
+<br>
+is there a sweeping pitch, almost lazer like sound in the fill there? I love it, would def bring that out, almost like the fill focuses on featuring that lazer like sound.
+</details>
+
+<details>
+<summary>0:24</summary>
+<br>
+aight first really constructive critisism, I think the piano ostinato has overstayed it's welcome. If you're really married to it you could just turn it way down and keep it as a background element but that synth should be front and center, it's the newest melodic idea.  Also the delay after the percussive impact at the start of the phrase is kind of distractingly off rhythm, idk if you can set that manually or it's just the sample but if you can't change the rhythm i'd cut the sound after the initial impact. Also also for the pedal tone, I think some basic shaping would help here, for example a slow crescendo to around 0:29 and decrescendo to 0:35 is enough. Lastly I think you should drop the bass to a sub bass, open up the sonic range, darken your sound and really suck the energy out of this section in a good way. Gotta leave room to build up to, ya know?
+</details>
+
+<details>
+<summary>0:29</summary>
+<br>
+I think the bass is doubled with some synth that has a distinct attack? I hear it when the note changes around this time. love the texture of this attack, I would love to hear it brought out more. Maybe even hear it on a delay that repeats every half note, or maybe every dotted quarter note if you want a little more energy
+</details>
+
+<details>
+<summary>0:35</summary>
+<br>
+love the bass movement, as a bassist i aprove lol. Sadly this is where the piano ostinato goes from overstying to holding this section back. Assuming you keep the ostinato up to this point, I think it would be best to keep it's rhythmic identity but change it's notes to something that reinforces the chord change suggested by the new pedal tone
+</details>
+
+<details>
+<summary>0:41</summary>
+<br>
+there goes that attack again! It's a really distinct texture, I'd love to hear it with a delay again here too. Love the crescendo of the sharper synth, love the sweep, love the fade in of the syncopated synth stabs, good shit. only would suggest maybe anticipating the next section with a percussive fill starting on the and of 3 on the measure before the drop. Maybe reuse one of your prior little kick fills, like the one at 0:11, for structural consistency? or something harder, depends how hard you want to go in the upcoming section
+</details>
+
+<details>
+<summary>0:46</summary>
+<br>
+ok imo so those long tones held over from the section before are kind of smothering the rhythmic energy of the upbeat bass. oh if you do go with a sub bass for the prior section, i'd return it to the range of the bass you've got here for this section. anywho, i think phrasing wise you can reuse the sidechaing idea i suggested for 0:12, so each phase starts with long tones that get progressively more and more sidechained. Love the syncopated synth stabs, how do you feel about flirting with countermelody? nothing strict to any rules here, we don't fuck with 16th century eastern europeans that hard. I mean exploring more than just the repeating the root note of the chord for these stabs. The energy is good here, there's def space for more melodic information. I already like the piano chord you start every phrase with, maybe go with reinforcing some of those note
+</details>
+
+<details>
+<summary>1:03</summary>
+<br>
+More constructive critisism~ The melodic synth has been great thus far but it's melodic range has been thoroughly explored. You gotta break out of your comfort zone, break the listener out of the comfort zone you've put them in with this outro phrase. Rhythmicly, that means a new more intense rhythm like 16th note runs or even something more syncopated. Melodically that means going even higher, I know you top out around Bb6 but i'd wager you could afford going up to at least Eb7.
+</details>
