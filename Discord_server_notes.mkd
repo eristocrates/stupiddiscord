@@ -51,3 +51,72 @@
 * bring up no levels
 * importing [goal tag](https://docs.carl.gg/tags-and-triggers/collection/) in carl bot
 * maybe limit the crap out of dank memer?
+* maybe automate artist request with a bot like [to do list](https://top.gg/bot/782105629572464652)?
+* whatever permission to edit the little message on the top of the channel
+* collaborative spotify playlist for us spotify listeners
+* spotify playlist with top songs for artists in the artist request
+* spotify playlist with songs mentioned in rinny's yt videos
+* figure out how to properly participate in giving mentions to BOF as a server wide activity
+* maybe add to the rules to proactively get ahead of potential problems 
+
+## Artist Request
+
+* [Kobaryo](https://open.spotify.com/artist/1Y81Ch90opScfpMfN17lZb?si=0ccf19138e1c4627)
+* [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI?si=396ed66bf7a146a8)
+* [Quick Brown Fox](https://open.spotify.com/artist/5dp0fbyRSD22XTvsdeLeaY?si=6ce8025cf3cb445e)
+* [Kurokotei / 黒皇帝](https://open.spotify.com/artist/3AjRXPf1FkulZmsWdOYBf5?si=05c12cd4a14b479f)
+* [Team Grimoire](https://open.spotify.com/artist/3JL2xJoZQDP7NjNiEmVpfa?si=1a3f867513644b1a)
+* [Diabarha](https://www.youtube.com/channel/UCksq7I8QduPMyaLkIhsAz8w)
+* [Xystran](https://open.spotify.com/artist/7wBN9cf6RvHPfryy3A3Ikz?si=sMCc_FoeTXWSgQYsThcE3Q)
+* [cosMo@Bousou-P](https://open.spotify.com/artist/0Z0BaBPSkr05iFPTrZmJiK?si=513834da343a4008)
+* [DJKurara](https://open.spotify.com/artist/4Ld4okb6IAQawA81RHkM3U?si=c0833dcbe0c541ce)
+* [DJNate]()
+* [Laur]()
+* [C-Show]()
+* [M2U]()
+* [P*Light]()
+* [m1dlet]()
+* [Chroma]()
+* [Morimori Atushi]()
+* [Zekk]()
+* [Ginkiha]()
+* [IOSYS]()
+* [Moe shop]()
+* [Goreshit]()
+* [Myosuke]()
+* [TORIENA]()
+* [ICDD]()
+* [FREEZER]()
+* [DOT96]()
+* [ebimayo]()
+* [sharpnel]()
+* [猫叉Master]()
+* [Sota Fujimori]()
+* [DJ YOSHITAKA]()
+* [kors k ]()
+* [Silentroom ]()
+* [SOOOO ]()
+* [Katagiri ]()
+* [imperial circus dead decadence]()
+* [AOiRO_Manbow]()
+* [TANUKI ]()
+* [PSYQUI]()
+* [Halozy]()
+* [Reol]()
+* [Yuyoyuppe]()
+* [Foreground Eclipse]()
+* [aaaa/ああああ]()
+* [Ahc ]()
+* [Thaehan]()
+* [Ryo]()
+* [supercell]()
+* [DJ Genki]()
+* [Ryu]()
+* [TAG]()
+* [nora2r]()
+* [PON]()
+* [De De Mouse]()
+* [Massive New Krew]()
+* [ARM]()
+* [Lite Show Magic]()
+
