@@ -1,0 +1,53 @@
+## why I would want to join the server  
+
+*  find rhythm game memes
+*  find ppl who play games i play
+*  be notified of rhythm game news
+*  sense of community with others who love rhythm games as much as i do
+*  flex (with respect)
+*  find ppl better than me who can inspire me to get better
+*  find/share other rhythm game yt channels
+
+## Permissions to look into  
+
+*  manage emoji's and stickers? I'd love to add plenty
+*  manage channels? I'd have been able to make a bot testing channel instead of clogging modchat. Also a channel for pinging rinny's videos might be a good add
+*  Start Activities? maybe for listening parties/multiplayer casuals?
+*  Manage Server? Honestly I want to customize Mee6 bot, especially for music listening parties
+
+## Games to maybe add roles for.  
+
+### I've seen these posted in rhythm-game-scores channel. Alse, pretty sure dyno's [autoroles](https://wiki.dyno.gg/en/modules/autoroles#how-to-set-up-joinable-ranks) should work for this  
+### Carl's [feed](https://docs.carl.gg/utilities/announcements/) announcements might work too
+
+
+*  Osu Normal
+*  Osu Mania
+*  Arcaea
+*  Beat Saber
+*  Sound Voltex
+*  A Dance of Fire and Ice
+*  Muse Dash
+*  Etterna
+*  Lanota
+*  Phigros
+*  Rhythm Doctor
+*  Cytus 2
+*  DDR
+*  Wacca
+*  Chunithm
+*  Musynx
+*  Beatmania
+*  Pump It Up
+
+## Stuff to ask rinny in general
+* server welcome screen
+* applying for discovery
+* server discription
+* suggestion box type channel to ask why ppl come to/would stay on the server
+* emoji permissions
+* server invite background
+* custom vanity link invite [url](https://invite.gg/)
+* bring up no levels
+* importing [goal tag](https://docs.carl.gg/tags-and-triggers/collection/) in carl bot
+* maybe limit the crap out of dank memer?
