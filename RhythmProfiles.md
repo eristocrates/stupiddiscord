@@ -21,6 +21,6 @@ ID: 712653808
 
 # D4DJ
 
-Asahinya-Sensei  
+A Wandering Onee-Chan  
 ID: hjVZ7W3S  
 ![](https://github.com/eristocrates/stupiddiscord/blob/main/img/asahinya-sensei.jpg)
