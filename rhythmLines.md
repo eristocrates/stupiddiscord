@@ -12,3 +12,4 @@
 * [Chunithm](https://store.line.me/stickershop/product/1724126/en)
 * [Deemo](https://store.line.me/stickershop/product/1329124/en)
 * [Rayark](https://store.line.me/stickershop/product/1361407/en)
+* [DDR](https://store.line.me/stickershop/product/5381358)
