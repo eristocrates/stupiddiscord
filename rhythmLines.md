@@ -9,3 +9,4 @@
 * [Space Channel 5](https://store.line.me/stickershop/product/9488034/en)
 * [Taiko](https://store.line.me/stickershop/product/7909/en)
 * [Pop'n](https://store.line.me/stickershop/product/7244955/en)
+* [Chunithm](https://store.line.me/stickershop/product/1724126/en)
