@@ -6,3 +6,4 @@
 * [Dynamix](https://store.line.me/stickershop/product/1973441/en)
 * [maimai](https://store.line.me/stickershop/product/1744483/en)
 * [Ongeki](https://store.line.me/stickershop/product/8257304/en)
+* [Space Channel 5](https://store.line.me/stickershop/product/9488034/en)
