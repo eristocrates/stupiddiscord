@@ -10,3 +10,5 @@
 * [Taiko](https://store.line.me/stickershop/product/7909/en)
 * [Pop'n](https://store.line.me/stickershop/product/7244955/en)
 * [Chunithm](https://store.line.me/stickershop/product/1724126/en)
+* [Deemo](https://store.line.me/stickershop/product/1329124/en)
+* [Rayark](https://store.line.me/stickershop/product/1361407/en)
