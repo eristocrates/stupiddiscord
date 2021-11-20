@@ -7,3 +7,5 @@
 * [maimai](https://store.line.me/stickershop/product/1744483/en)
 * [Ongeki](https://store.line.me/stickershop/product/8257304/en)
 * [Space Channel 5](https://store.line.me/stickershop/product/9488034/en)
+* [Taiko](https://store.line.me/stickershop/product/7909/en)
+* [Pop'n](https://store.line.me/stickershop/product/7244955/en)
