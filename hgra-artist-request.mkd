@@ -45,6 +45,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVn32Il7kStz1YZNw0C7UZxGPsUmSfRnmQLq-jC4qNoSD0T8I&s" height="200"/> [Imperial Circus Dead Decadence](https://open.spotify.com/artist/5bgW1AysTzHav20snaPkyp?si=8108bdcabcb84d58)
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvJugmUMmwny8Ld7tfoWIfWz6JiqRuIC6OcWA3oh_k5I64WzLI&s" height="200"/> [IOSYS](https://open.spotify.com/artist/7lw3txgTpihF2On2QVtldq?si=40acaa5f88074f1a)
 <img src="https://remywiki.com/images/thumb/c/cf/Wac.jpg/200px-Wac.jpg" height="200"/> [Jun Wakita](https://open.spotify.com/artist/4GnlUQF9clWmZJXSCRXHJF?si=1bguGty9STm2S3Ijga280g)
+<img src="https://i1.sndcdn.com/avatars-000003485374-3soicj-t500x500.jpg" height="200"/> [Junk](https://open.spotify.com/artist/5tR5EAVOTNLdRojz8WkcQx?si=kNEJAUNESD24GkNiKEuM4w)
 <img src="https://i1.sndcdn.com/avatars-QAExvuf5OskKPAyx-752uzA-t200x200.jpg" height="200"/> [Katagiri | かたぎり](https://open.spotify.com/artist/5duYVbF1t32VmVaI33fYAS?si=RvHPcqNpTFygvk0kxzqHlQ)
 <img src="https://c.tenor.com/T_UAKP5dGA4AAAAi/kobairo-kobaryo.gif" height="200"/> [Kobaryo](https://open.spotify.com/artist/1Y81Ch90opScfpMfN17lZb?si=0ccf19138e1c4627)
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvoBxMyN3RoFLXGJ45yAWAlV3bPR-EKzmpi2HhtMgSZXO4UvE&s" height="200"/> [kors k](https://open.spotify.com/artist/667AP6niAXUnJkkum46TvZ?si=08332aa5674e4aa8)
@@ -66,7 +67,6 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS-M5j_wP8GTGwvRUwt9nWId2uhGGTPUXgHtYbUpacM7E3Lm_3&s" height="200"/> [PSYQUI](https://open.spotify.com/artist/3p8H8HTn04KXh2NRzhKScl?si=5c1b517617cf45a4)
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4KpUNANQhK_LvdIodAuEVMejLrvZVzbRe8N4E5hwRe2d5IT0&s" height="200"/> [Quick Brown Fox](https://open.spotify.com/artist/5dp0fbyRSD22XTvsdeLeaY?si=6ce8025cf3cb445e)
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBvChu_LKHLwB3uY98s42c8C2UXypOKj3pJkRgm__JVWvd5cE&s" height="200"/> [RD-Sounds](https://open.spotify.com/artist/1Y4p4gln4fqE3LKdkzOz0f?si=6b5ffe6e98774967) | [凋叶棕](https://open.spotify.com/artist/1eavaF4JYVytwilMtljNhO?si=ncQTjs8mRayHcvelzKNGGw)
-
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlUUPwTXIuWZYDy7xDXks9P0_kKnskexZzd8E5V-laX4X0n1A&s" height="200"/> [REDALiCE](https://open.spotify.com/artist/3m63JSv6jhLEKNXcEd5EUK?si=83ea8615f93d47df)
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUa8yOZA1WnFFzzGD0Jr4f8SM0JpQhS3mh1xHI1UAQnxeY-MI&s" height="200"/> [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ?si=f8bfc9ed646c4afc)
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS29ZqF_3oMCpPknebMIgb0V8m425zaZs7rFJ0aPagIwBy4Lc&s" height="200"/> [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO?si=622640ed239d44d5)
