@@ -18,7 +18,9 @@ ID: 923057108
 silorcity  
 ID: 712653808
 ![](https://github.com/eristocrates/stupiddiscord/blob/main/img/silorcity.png)
-
+SiameseDerp
+ID: 883929439
+![](https://github.com/eristocrates/stupiddiscord/blob/main/img/derp.png)
 # D4DJ
 
 A Wandering Onee-Chan  
