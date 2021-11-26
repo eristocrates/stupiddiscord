@@ -1,98 +1,371 @@
+
 <div align="center">
+
+
 
 # Got an artist you want Rinny to cover?
 
-## Artist picture is to the left of their name, which is also a link to their music. Feel free to click around and discover new jams~
+## Artist picture is above their name, which is also a link to their music. Feel free to click around and discover new jams~
  
+
 </div>
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdZi4L0ovL7x4FG0eaz9XlWkkwLpLHb0hCF2H_oOsccuLQbo&s" height="200"/> [aaaa | ああああ](https://open.spotify.com/artist/54XLXnnCDMzhExXXXKWNib?si=c01d2dff23ef4b66)
-<img src="https://i1.sndcdn.com/avatars-a0qrFUdHeMTaKIwg-H2jXkw-t500x500.jpg" height="200"/> [Aiobahn](https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT?si=353005accf27442b)
-<img src="https://i1.sndcdn.com/avatars-000309749163-thyhx6-t200x200.jpg" height="200"/> [Antenna Girl](https://open.spotify.com/artist/36ChDjtYousECVnTj0ntdj?si=885050507f1742f8)
-<img src="https://i1.sndcdn.com/avatars-000614856765-kpe6d2-t200x200.jpg" height="200"/> [Aoi](https://open.spotify.com/artist/1y2oGiyZOz7JX1aEGGsYay?si=fGYIOS03R-CahTfYHVmP1w)
-<img src="https://img.discogs.com/zHnJyfU-bYIGPaXcCggMOu17cyw=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-1030668-1578524463-9194.png.jpg" height="200"/> [AOiRO_Manbow aka HAPI](https://www.youtube.com/channel/UCTPCEd69AgcOaQ5N11v2zVA)
-<img src="https://lastfm.freetls.fastly.net/i/u/300x300/20b4be54b33f4c6291a5155dbde6661c" height="200"/> [ARM](https://open.spotify.com/artist/2e6C2GxVrYtrWdw5poe1D0?si=0uCuta-6RMOIq7vpxWgDjg)
-<img src="https://i1.sndcdn.com/avatars-000024811896-7l8i0j-t200x200.jpg" height="200"/> [BlackY](https://open.spotify.com/artist/4IsgVdOy2TTOTPArjMzDNp?si=e5e602de051940af)
-<img src="https://i1.sndcdn.com/avatars-000746054554-tiwr4p-t200x200.jpg" height="200"/> [C-Show](https://open.spotify.com/artist/1htzq7aFGxiKmAwVSmk4yx?si=2ff1e7008c374473)
-<img src="https://i1.sndcdn.com/avatars-000557858433-59owvp-t200x200.jpg" height="200"/> [Chroma | 黒魔/](https://open.spotify.com/artist/2Gtmf2gf0Rs6NN2RTld3O2?si=e9d910e4ea6a4e54)
-<img src="https://i.scdn.co/image/ab67616d0000b2731e604f5dfd7e0ab3cef62bed" height="200"/> [cosMo@Bousou-P](https://open.spotify.com/artist/0Z0BaBPSkr05iFPTrZmJiK?si=513834da343a4008)
-<img src="https://remywiki.com/images/thumb/d/dc/Daichi_Watanabe.jpg/400px-Daichi_Watanabe.jpg" height="200"/> [Daichi Watanabe | PON](https://open.spotify.com/artist/3XvevJ2QFlVuiBazyJI21X?si=a1689f1311124eaa)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD3lWBX86ns118KZ5PHKVVNdnIuwUqfWpQw6m7lOC1aX-BsIhI&s" height="200"/> [De De Mouse](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj?si=953bccc7b348456c)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-86Y2y1cDGqZrWR615xCKhyxyzaLg686xQsS3g6cMqzyn1rQ&s" height="200"/> [DECO*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP?si=601a8e5b732d4346)
-<img src="https://i1.sndcdn.com/avatars-000015469672-52l16o-t500x500.jpg" height="200"/> [Diabarha](https://soundcloud.com/diabarha)
-<img src="https://touhoudb.com/Album/CoverPicture/2696?v=6" height="200"/> [Diao ye zong | 凋叶棕](https://open.spotify.com/artist/1eavaF4JYVytwilMtljNhO?si=b3dc96539d904239)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqRwz-Y8NK-1iWgq4NLWnRbNTuBOxcqKQJ_r_DxM4CXi5DEHo&s" height="200"/> [DJ Genki](https://open.spotify.com/artist/787mj6iFvEpBBuQQRDdMXB?si=534450fc5f2141be)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtprkp08vxtWq77aLpY-WcQ-405aJ_B8r7k1UDCaGixCCe6Ck&s" height="200"/> [DJKurara](https://open.spotify.com/artist/4Ld4okb6IAQawA81RHkM3U?si=c0833dcbe0c541ce)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0az-oZVFCrPfk2KhYDCpraaY2UWPtnZpKqzyYC9ysdfjFuz8&s" height="200"/> [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG?si=c63db4254d1e4cde)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg-JC0zYWqTBwnC9GRyf2wyZzo9jG8J0C4QtZCIUdDqW8FyzM4&s" height="200"/> [DJ sharpnel](https://open.spotify.com/artist/0qZjgKADg863aWQZxRppgK?si=eZmwhxuJRFGNnFASTfd-Tw)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLs_vvOnTBQl-nr1iWpA1VvHCOKMzNjskOyOroiRjBoAtT8G8&s" height="200"/> [DJ YOSHITAKA | DJ TAKA](https://open.spotify.com/artist/7MrwZGvkQjFALsvKQyBbli?si=9a64c3770bdd4c42)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvhPoiKCHUcEpGBRyS2Fz5S9O2oXiRiGDZtqgYqKyYQMRLTCJD&s" height="200"/> [DOT96](https://open.spotify.com/artist/73ccn62z0PaLuutw25Au8o?si=3b8be343ea434f62)
-<img src="https://i1.sndcdn.com/avatars-SzYpVezs8lf7kMD1-KkxB0Q-t500x500.jpg" alt="ebimayo" height="200"/> [ebimayo](https://open.spotify.com/artist/2ndMGABYRfVaeWkDP5Ag6v?si=24b76c8015e94bc5)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUPam6ubPxYFL4a5JR94N31wID5U6igY6UbcxJERA9EVNnyot3&s" height="200"/> [ETIA.](https://open.spotify.com/artist/1w4UT8aBCBdpxSRoxvyQ8u?si=d4d4057f040942aa)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFExfBlGh11vXA03OwsCbQFa2OkrwtqGnhuz3eMAJmWrTg0b4&s" height="200"/> [eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf?si=MKOs2snxQdCFsvnxEzw8xg)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiK7JLTFBlV4QzgFRrEZC1Uzkr-7rdZss181yLrSfWaDSXeQc&s" height="200"/> [Foreground Eclipse](https://www.youtube.com/watch?v=AeZb5ufTuCM)
-<img src="https://remywiki.com/images/thumb/1/11/Freezer.jpg/200px-Freezer.jpg" height="200"/> [FREEZER](https://open.spotify.com/artist/67BCC33Zamb5TdL6di2xi1?si=0547e930d8264e8d)
-<img src="https://i1.sndcdn.com/avatars-0LICnQjLLd7gGs7k-KmxdRQ-t200x200.jpg" height="200"/> [Getty](https://open.spotify.com/artist/3CKAJHc0KjoFAbaqvvJ5kK?si=59a837b632ef4f6d)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR08NtJjgmOxhvqVzH1HfVJuXvvlV3J8LqvMLOqSdrGb_eptWm6&s" height="200"/> [Ginkiha](https://open.spotify.com/artist/0Vqx5xQshGuOoA9JAYDhF2?si=888030bbf1e9462d)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyefoJeUxTjXvUwIa1fcOdIFjMRJK2HnmMT1GSc9JTdtgaaJk&s" height="200"/> [gmtn. | ](https://open.spotify.com/artist/510FdyxWVl8Bw83dYoDsX6?si=WIKIcg7mTlCqzypV-malvQ)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStq43Kv4Y7l78L-2gmXWHgs_K5x44qw2HfilohbORkrlrkDyc&s" height="200"/> [witch's slave](https://open.spotify.com/artist/6f1BHHPw92Pvr0N4tviEMT?si=c89b6d0418b740bf)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROVRWB6_jncQ_C-GpKvIumnQY6uVoi2fvOM66jcdvNcj503Xqs&s" height="200"/> [Goreshit](https://open.spotify.com/artist/2UyOnfaE8nWXKPwYQyp2La?si=6e09afbac3d04901)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyVKD8lBv1OhjpW8Rtpnk-b9vnIS8woiZdwDoh0mR-hpqMqHg&s" height="200"/> [Halozy](https://halozy.bandcamp.com/)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrsDjAqpOzXe452MwvN-rI_9ICkkh0PKgR3LIK-JoeFV7FtpAd&s" height="200"/> [hino isuka](https://open.spotify.com/artist/1lnzTELNsWBahibN86sSU4?si=0437af3ed63a4f94)
-<img src="https://lastfm.freetls.fastly.net/i/u/ar0/fcb861503cf246f8abc26d05b7f55707.jpg" height="200"/> [Hirokazu Koshio | ZUNTATA |](https://open.spotify.com/artist/78dDLIBQRjfGrwWHPzyGvk?si=09652e6e1f59418d)
-<img src="https://pbs.twimg.com/profile_images/1665395626/cosio_reasonably_small.gif" height="200"/> [COSIO](https://open.spotify.com/artist/0FEE6TY5DhlkJ8Bsp2Xu5T?si=6cd906f347e04efa)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsObGQyMJ5zrWgkUs_PmUgdKZK2UVIF01vU5pisIA9NOOVxiKM&s" height="200"/> [ikaruga_nex](https://open.spotify.com/artist/7APbCMokJLK8dQjm2fK6Vp?si=1f67dbe009ab42e0)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVn32Il7kStz1YZNw0C7UZxGPsUmSfRnmQLq-jC4qNoSD0T8I&s" height="200"/> [Imperial Circus Dead Decadence](https://open.spotify.com/artist/5bgW1AysTzHav20snaPkyp?si=8108bdcabcb84d58)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvJugmUMmwny8Ld7tfoWIfWz6JiqRuIC6OcWA3oh_k5I64WzLI&s" height="200"/> [IOSYS](https://open.spotify.com/artist/7lw3txgTpihF2On2QVtldq?si=40acaa5f88074f1a)
-<img src="https://remywiki.com/images/thumb/c/cf/Wac.jpg/200px-Wac.jpg" height="200"/> [Jun Wakita](https://open.spotify.com/artist/4GnlUQF9clWmZJXSCRXHJF?si=1bguGty9STm2S3Ijga280g)
-<img src="https://i1.sndcdn.com/avatars-000003485374-3soicj-t500x500.jpg" height="200"/> [Junk](https://open.spotify.com/artist/5tR5EAVOTNLdRojz8WkcQx?si=kNEJAUNESD24GkNiKEuM4w)
-<img src="https://i1.sndcdn.com/avatars-QAExvuf5OskKPAyx-752uzA-t200x200.jpg" height="200"/> [Katagiri | かたぎり](https://open.spotify.com/artist/5duYVbF1t32VmVaI33fYAS?si=RvHPcqNpTFygvk0kxzqHlQ)
-<img src="https://c.tenor.com/T_UAKP5dGA4AAAAi/kobairo-kobaryo.gif" height="200"/> [Kobaryo](https://open.spotify.com/artist/1Y81Ch90opScfpMfN17lZb?si=0ccf19138e1c4627)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvoBxMyN3RoFLXGJ45yAWAlV3bPR-EKzmpi2HhtMgSZXO4UvE&s" height="200"/> [kors k](https://open.spotify.com/artist/667AP6niAXUnJkkum46TvZ?si=08332aa5674e4aa8)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuwuRz-V_9b-EUzwz-uz1mA0KfuxSUgTCUnNwMGsVTy43ph4ad&s" height="200"/> [Kurokotei | 黒皇帝](https://open.spotify.com/artist/3AjRXPf1FkulZmsWdOYBf5?si=05c12cd4a14b479f)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQov9A-ei4HO49-WERC4pQI45g3wk2rJQMrUg75WG1rEyOUeCK1&s" height="200"/> [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3?si=f5a07b81face4192)
-<img src="https://remywiki.com/images/thumb/c/c6/WeareLSM.jpg/400px-WeareLSM.jpg" height="200"/> [Lite Show Magic](https://open.spotify.com/artist/7hlPJUqB3Wkpr5WLHLC573?si=14a0fc4d751f47e3)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_uMjnb_w-D_pS8QMQP73mBRDQVhXXHGGWLdPx5KXj0OYK-rY&s" height="200"/> [m1dlet](https://open.spotify.com/artist/1YGGaZxHAKqyI1Knqq5mFQ?si=8cef5a281f864bb6)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUjDOE6MKTg-DplDvJgOErA4f8tWEp0mwIG-yxgTRnXphGSV6H&s" height="200"/> [M2U](https://open.spotify.com/artist/2wTNs9AmIOv5Fjs66HK1tV?si=711d0c01e9e34136)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOQ5ArT4RBcCsJV1f8BwHpnozvEUpgfhH9TxAxHUbi1B10luI&s" height="200"/> [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN?si=c17dfe54a0b446b4)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrbV5wBlBerMxVEhdOoW_-u98Q_NYIp4RGjaIJteMYfe9yt_A&s" height="200"/> [Mayumi Moringa | Prim](https://open.spotify.com/artist/2iQejuii666Qz0TJvkPoCD?si=f1f7fac7ad10432d)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToSrH0eioy29-yS-4zpGAe464-eD_z20cg5eNgy8LOymAgJmIE&s" height="200"/> [Moe shop](https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ?si=9441fdb5ca334a31)
-<img src="https://i1.sndcdn.com/avatars-T99TSds9Di4L2HmS-0yLnEQ-t500x500.jpg" height="200"/> [Morimori Atsushi](https://open.spotify.com/artist/3EhfoUSyEJ3yEVzSU7LBNe?si=824200d1dc8d449e)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS9fT08YI-G-ISrLqf_at3j1j2woT28HeTlFsp2M0Cr92hIiii&s" height="200"/> [Nanawoakari](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn?si=eda0c00ffce24608)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9pv8O3d24id4qA2TVGUm6uoMF4_vXUTcCPeAQiETIC-juPRY&s" height="200"/> [Naoyuki Sato  | 猫叉Master](https://remywiki.com/Naoyuki_Sato)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzUDjJ0bdnaH1SaGc1gEB5cQqyngPy7_jyOFfYPi2kpfvQiyBL&s" height="200"/> [Neko Hacker](https://open.spotify.com/artist/2aQ9IoRPwXEhhBVj4wbS46?si=d6dc0675b3204162)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGldagux1BhFussvhOKCYfETDc58iycNHb6gJ86SmVLDh0nr4P&s" height="200"/> [nora2r](https://open.spotify.com/artist/2w6fOiIppkVrA659vJN89h?si=6838076a37eb42b9)
-<img src="https://yt3.ggpht.com/ytc/AKedOLQiLu0lQnAlzu71ufPzNnYd3yS5u5PJBrWGt9G5=s900-c-k-c0x00ffffff-no-rj" height="200"/> [owl*tree](https://open.spotify.com/artist/3Mws7pLUcCq69go78heq9p?si=b534a899be7d434c)
-<img src="https://img.discogs.com/cVP-ByCbBYo4D4_ZYUiHxj2pEWw=/500x500/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-892191-1322315204.jpeg.jpg" height="200"/> [P*Light](https://open.spotify.com/artist/7A5iW5McqgmSz4uV12zw5J?si=efdde292919f4dfa)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS-M5j_wP8GTGwvRUwt9nWId2uhGGTPUXgHtYbUpacM7E3Lm_3&s" height="200"/> [PSYQUI](https://open.spotify.com/artist/3p8H8HTn04KXh2NRzhKScl?si=5c1b517617cf45a4)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4KpUNANQhK_LvdIodAuEVMejLrvZVzbRe8N4E5hwRe2d5IT0&s" height="200"/> [Quick Brown Fox](https://open.spotify.com/artist/5dp0fbyRSD22XTvsdeLeaY?si=6ce8025cf3cb445e)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBvChu_LKHLwB3uY98s42c8C2UXypOKj3pJkRgm__JVWvd5cE&s" height="200"/> [RD-Sounds](https://open.spotify.com/artist/1Y4p4gln4fqE3LKdkzOz0f?si=6b5ffe6e98774967) | [凋叶棕](https://open.spotify.com/artist/1eavaF4JYVytwilMtljNhO?si=ncQTjs8mRayHcvelzKNGGw)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlUUPwTXIuWZYDy7xDXks9P0_kKnskexZzd8E5V-laX4X0n1A&s" height="200"/> [REDALiCE](https://open.spotify.com/artist/3m63JSv6jhLEKNXcEd5EUK?si=83ea8615f93d47df)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUa8yOZA1WnFFzzGD0Jr4f8SM0JpQhS3mh1xHI1UAQnxeY-MI&s" height="200"/> [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ?si=f8bfc9ed646c4afc)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS29ZqF_3oMCpPknebMIgb0V8m425zaZs7rFJ0aPagIwBy4Lc&s" height="200"/> [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO?si=622640ed239d44d5)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ23rzRLyTFkcOTKzTNYWeb_VWWanBOf3nDmOmkF6wddjyysTCF&s" height="200"/> [Ryo(supercell)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX?si=e02f33a90a9c40d3)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKJteD3oM24THDTaf9EQoPDnATk_6Rn-p_wJvZN30ATG3d3X06&s" height="200"/> [Ryu☆](https://open.spotify.com/artist/4gDlrL7n3hUaweCjBwVSzj?si=4hr_Mj8dT-2ohsnLYFjn4Q)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2hUMMEZy0K8xQjOcP5vx6nf26nCjI61IBo1iu0itayIo-z5U&s" height="200"/> [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2?si=968474d94bbd4221)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwl8511uARUX5OOq78VEQA1utwNsL7bgCWaiueH8MVHPru-pFa&s" height="200"/> [SASAKURE.uk](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1?si=499b83713b424018)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS969ZbhHiamRTFQ0O6L8-bYsIjgo8EXr6KKAQxN32lJKtyhg_3&s" height="200"/> [Silentroom](https://open.spotify.com/artist/7LLBCtTpnXXkY6AvW0Qjy9?si=076ab01ab3ba42c8)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbq1VoJI-WcvXRZkL3cL-aV5hcwkbIzZkg3CJzV3agwZOYKr4&s" height="200"/> [SOOOO](https://open.spotify.com/artist/59TISvIGG8NmedxlcEYSWu?si=5a28f2f79a3e4a73)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnsZZSVnwcLysIog2w7MOa3lWLoH2x3y0WItsP_0uqYf5oUMfN&s" height="200"/> [Sota Fujimori](https://open.spotify.com/artist/0IhucRUI5QnAsHmw3G9I9v?si=5397224a698948d6)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlvLppPglbm-RclOs8jPELLTpQMkUKp2GZMFkcILs-isKL01A1&s" height="200"/> [Srav3R](https://open.spotify.com/artist/5doDHBkL33VHZXcqAuQBj0?si=fc0fb5fabfef4657)
-<img src="https://media.vgm.io/artists/45/2454/2454-1481647430.png" height="200"/>[Taishi](https://open.spotify.com/artist/5cv7w3Fjid2lE7Srf7b2hT?si=b14eb2518d9240d0)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4WQ8ypUUZpb4u2K2JYqBE6eMAbA26RdlLn-AzxucCNnBAWvQ&s" height="200"/> [Takeaki Wada](https://open.spotify.com/artist/1KrYz7M24ir3cJGcDYMyyu?si=7b79286ea4f84172) | [KurageP](https://open.spotify.com/artist/1GxBZsRNgsxf88VxjAVuKU?si=416944186fde4824)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWF4l53nQG9uugOVPAJwX-Z0sL0ehyYmdh6kIhbf8apCGG0rk&s" height="200"/> [TANUKI](https://open.spotify.com/artist/5n3X0T0RlvRxUR6l9dBwB8?si=485a6ee8e8814976)
-<img src="https://remywiki.com/images/1/1c/Tatsh.jpg" height="200"/> [Tatsuya Shimizu | tatsh](https://open.spotify.com/artist/3qQ77y3zH3qIjq38LfxQ8c?si=poUdyHBmTqiEctq4SOzKvA)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWkwH8k95ceZkfkt6xZV_6DQaEVrDPMYB6dzudeItRVruNVMY&s" height="200"/> [Team Grimoire](https://open.spotify.com/artist/3JL2xJoZQDP7NjNiEmVpfa?si=1a3f867513644b1a)
-<img src="https://i1.sndcdn.com/avatars-9nQGGew4x3jcZU7k-aBBj0A-t500x500.jpg" height="200"/> [Thaehan](https://open.spotify.com/artist/2n0sjgdrfHYJT6B39cdvWW?si=945f9719e3f949c1)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL7Vs3Nrl1yLNJs0x22Yr20Xb_4AjmaF8txtxfn3vtRzHzDFqN&s" height="200"/> [TORIENA](https://open.spotify.com/artist/569Tg9s0Rv7EpI7zufTs2i?si=25d36ee2030c41dc)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiE5ByLgYkcM6WRC6NLnLDNZT7jDXrVPALyCQXtzh5KjxeHec&s" height="200"/> [Umeboshi chazuke](https://open.spotify.com/artist/73m2j87v34bHHXTu55XatF?si=1523b3507c944f45)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWQWS2hibslmwpARokKJRozF98sRVcnui9TpbDFBud5cBp7WIX&s" height="200"/> [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI?si=396ed66bf7a146a8)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPLCH1rqJBTxmMVaeVDVs14eESwZ3HTzK1VotMA3BRNQQmSsZq&s" height="200"/> [wowaka](https://open.spotify.com/artist/65MYE6R7PCyVAhHrQploNT?si=ab3f202bc9cc41c7)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCupcdi9RL-3V41RxsxT85LzOvhfqbaN0P9biNGoi2Vjvvh-U&s" height="200"/> [Xystran](https://open.spotify.com/artist/7wBN9cf6RvHPfryy3A3Ikz?si=sMCc_FoeTXWSgQYsThcE3Q)
-<img src="https://remywiki.com/images/3/31/TAG.jpg" height="200"/> [Yasuhiro Taguchi | TAG](https://www.youtube.com/watch?v=czWeHxnZxvI&list=RDEMHI_hH2K5MeXiSDOev5eO_A&start_radio=1)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRydrznw_rHjri9_cOf7NTFr7xSXIR5Wf17gBy4PVhiGeErizZL&s" height="200"/> [Yooh](https://open.spotify.com/artist/1M3Nrg5KLgJTxCbwQYl0sG?si=77f29da0eeb642e4)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_q8odQ0K11GyIlJG9AQpXc1c0ajzocIV3WaU9a1ZLF-Tp_D8x&s" height="200"/> [YUC'e](https://open.spotify.com/artist/0jP8a2o9Mw5qYoUz1SnQ2A?si=2bf0141b255e48b2)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReMFFxR5o-tnhFo0Qyo6y42myIyWUUHXAA3cfxYTTUYTV4tHc&s" height="200"/> [Yunomi](https://open.spotify.com/artist/2j00CVYTPx6q9ANbmB2keb?si=4dd1216de9da4a55)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNLWajbrF0vwiCK5vOS7LcRnmFBczDVguEzDFXlvbtntUB_j_6&s" height="200"/> [Yuyoyuppe](https://open.spotify.com/artist/43SpPuptZj45KCN2EHWHDW?si=b36e267367954c61)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVHSRnOHivrWRybt922vPEc5sT24sZRkNabBaRYMbU8Btj66QV&s" height="200"/> [Zekk](https://open.spotify.com/artist/6ImFfiM17Sg4T56akzOnu1?si=5f062aad02cc4e11)  
+
+
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdZi4L0ovL7x4FG0eaz9XlWkkwLpLHb0hCF2H_oOsccuLQbo&s" height="200"/>
+
+ [aaaa | ああああ](https://open.spotify.com/artist/54XLXnnCDMzhExXXXKWNib?si=c01d2dff23ef4b66)
+
+<img src="https://i1.sndcdn.com/avatars-a0qrFUdHeMTaKIwg-H2jXkw-t500x500.jpg" height="200"/>
+
+ [Aiobahn](https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT?si=353005accf27442b)
+
+<img src="https://i1.sndcdn.com/avatars-000309749163-thyhx6-t200x200.jpg" height="200"/>
+
+ [Antenna Girl](https://open.spotify.com/artist/36ChDjtYousECVnTj0ntdj?si=885050507f1742f8)
+
+<img src="https://i1.sndcdn.com/avatars-000614856765-kpe6d2-t200x200.jpg" height="200"/>
+
+ [Aoi](https://open.spotify.com/artist/1y2oGiyZOz7JX1aEGGsYay?si=fGYIOS03R-CahTfYHVmP1w)
+
+<img src="https://img.discogs.com/zHnJyfU-bYIGPaXcCggMOu17cyw=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-1030668-1578524463-9194.png.jpg" height="200"/>
+
+ [AOiRO_Manbow aka HAPI](https://www.youtube.com/channel/UCTPCEd69AgcOaQ5N11v2zVA)
+
+<img src="https://lastfm.freetls.fastly.net/i/u/300x300/20b4be54b33f4c6291a5155dbde6661c" height="200"/>
+
+ [ARM](https://open.spotify.com/artist/2e6C2GxVrYtrWdw5poe1D0?si=0uCuta-6RMOIq7vpxWgDjg)
+
+<img src="https://i1.sndcdn.com/avatars-000024811896-7l8i0j-t200x200.jpg" height="200"/>
+
+ [BlackY](https://open.spotify.com/artist/4IsgVdOy2TTOTPArjMzDNp?si=e5e602de051940af)
+
+<img src="https://i1.sndcdn.com/avatars-000746054554-tiwr4p-t200x200.jpg" height="200"/>
+
+ [C-Show](https://open.spotify.com/artist/1htzq7aFGxiKmAwVSmk4yx?si=2ff1e7008c374473)
+
+<img src="https://i1.sndcdn.com/avatars-000557858433-59owvp-t200x200.jpg" height="200"/>
+
+ [Chroma | 黒魔/](https://open.spotify.com/artist/2Gtmf2gf0Rs6NN2RTld3O2?si=e9d910e4ea6a4e54)
+
+<img src="https://i.scdn.co/image/ab67616d0000b2731e604f5dfd7e0ab3cef62bed" height="200"/>
+
+ [cosMo@Bousou-P](https://open.spotify.com/artist/0Z0BaBPSkr05iFPTrZmJiK?si=513834da343a4008)
+
+<img src="https://remywiki.com/images/thumb/d/dc/Daichi_Watanabe.jpg/400px-Daichi_Watanabe.jpg" height="200"/>
+
+ [Daichi Watanabe | PON](https://open.spotify.com/artist/3XvevJ2QFlVuiBazyJI21X?si=a1689f1311124eaa)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD3lWBX86ns118KZ5PHKVVNdnIuwUqfWpQw6m7lOC1aX-BsIhI&s" height="200"/>
+
+ [De De Mouse](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj?si=953bccc7b348456c)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-86Y2y1cDGqZrWR615xCKhyxyzaLg686xQsS3g6cMqzyn1rQ&s" height="200"/>
+
+ [DECO*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP?si=601a8e5b732d4346)
+
+<img src="https://i1.sndcdn.com/avatars-000015469672-52l16o-t500x500.jpg" height="200"/>
+
+ [Diabarha](https://soundcloud.com/diabarha)
+
+<img src="https://touhoudb.com/Album/CoverPicture/2696?v=6" height="200"/>
+
+ [Diao ye zong | 凋叶棕](https://open.spotify.com/artist/1eavaF4JYVytwilMtljNhO?si=b3dc96539d904239)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqRwz-Y8NK-1iWgq4NLWnRbNTuBOxcqKQJ_r_DxM4CXi5DEHo&s" height="200"/>
+
+ [DJ Genki](https://open.spotify.com/artist/787mj6iFvEpBBuQQRDdMXB?si=534450fc5f2141be)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtprkp08vxtWq77aLpY-WcQ-405aJ_B8r7k1UDCaGixCCe6Ck&s" height="200"/>
+
+ [DJKurara](https://open.spotify.com/artist/4Ld4okb6IAQawA81RHkM3U?si=c0833dcbe0c541ce)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0az-oZVFCrPfk2KhYDCpraaY2UWPtnZpKqzyYC9ysdfjFuz8&s" height="200"/>
+
+ [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG?si=c63db4254d1e4cde)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg-JC0zYWqTBwnC9GRyf2wyZzo9jG8J0C4QtZCIUdDqW8FyzM4&s" height="200"/>
+
+ [DJ sharpnel](https://open.spotify.com/artist/0qZjgKADg863aWQZxRppgK?si=eZmwhxuJRFGNnFASTfd-Tw)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLs_vvOnTBQl-nr1iWpA1VvHCOKMzNjskOyOroiRjBoAtT8G8&s" height="200"/>
+
+ [DJ YOSHITAKA | DJ TAKA](https://open.spotify.com/artist/7MrwZGvkQjFALsvKQyBbli?si=9a64c3770bdd4c42)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvhPoiKCHUcEpGBRyS2Fz5S9O2oXiRiGDZtqgYqKyYQMRLTCJD&s" height="200"/>
+
+ [DOT96](https://open.spotify.com/artist/73ccn62z0PaLuutw25Au8o?si=3b8be343ea434f62)
+
+<img src="https://i1.sndcdn.com/avatars-SzYpVezs8lf7kMD1-KkxB0Q-t500x500.jpg" alt="ebimayo" height="200"/>
+
+ [ebimayo](https://open.spotify.com/artist/2ndMGABYRfVaeWkDP5Ag6v?si=24b76c8015e94bc5)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUPam6ubPxYFL4a5JR94N31wID5U6igY6UbcxJERA9EVNnyot3&s" height="200"/>
+
+ [ETIA.](https://open.spotify.com/artist/1w4UT8aBCBdpxSRoxvyQ8u?si=d4d4057f040942aa)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFExfBlGh11vXA03OwsCbQFa2OkrwtqGnhuz3eMAJmWrTg0b4&s" height="200"/>
+
+ [eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf?si=MKOs2snxQdCFsvnxEzw8xg)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiK7JLTFBlV4QzgFRrEZC1Uzkr-7rdZss181yLrSfWaDSXeQc&s" height="200"/>
+
+ [Foreground Eclipse](https://www.youtube.com/watch?v=AeZb5ufTuCM)
+
+<img src="https://remywiki.com/images/thumb/1/11/Freezer.jpg/200px-Freezer.jpg" height="200"/>
+
+ [FREEZER](https://open.spotify.com/artist/67BCC33Zamb5TdL6di2xi1?si=0547e930d8264e8d)
+
+<img src="https://i1.sndcdn.com/avatars-0LICnQjLLd7gGs7k-KmxdRQ-t200x200.jpg" height="200"/>
+
+ [Getty](https://open.spotify.com/artist/3CKAJHc0KjoFAbaqvvJ5kK?si=59a837b632ef4f6d)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR08NtJjgmOxhvqVzH1HfVJuXvvlV3J8LqvMLOqSdrGb_eptWm6&s" height="200"/>
+
+ [Ginkiha](https://open.spotify.com/artist/0Vqx5xQshGuOoA9JAYDhF2?si=888030bbf1e9462d)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyefoJeUxTjXvUwIa1fcOdIFjMRJK2HnmMT1GSc9JTdtgaaJk&s" height="200"/>
+
+ [gmtn. | ](https://open.spotify.com/artist/510FdyxWVl8Bw83dYoDsX6?si=WIKIcg7mTlCqzypV-malvQ)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStq43Kv4Y7l78L-2gmXWHgs_K5x44qw2HfilohbORkrlrkDyc&s" height="200"/>
+
+ [witch's slave](https://open.spotify.com/artist/6f1BHHPw92Pvr0N4tviEMT?si=c89b6d0418b740bf)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROVRWB6_jncQ_C-GpKvIumnQY6uVoi2fvOM66jcdvNcj503Xqs&s" height="200"/>
+
+ [Goreshit](https://open.spotify.com/artist/2UyOnfaE8nWXKPwYQyp2La?si=6e09afbac3d04901)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyVKD8lBv1OhjpW8Rtpnk-b9vnIS8woiZdwDoh0mR-hpqMqHg&s" height="200"/>
+
+ [Halozy](https://halozy.bandcamp.com/)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrsDjAqpOzXe452MwvN-rI_9ICkkh0PKgR3LIK-JoeFV7FtpAd&s" height="200"/>
+
+ [hino isuka](https://open.spotify.com/artist/1lnzTELNsWBahibN86sSU4?si=0437af3ed63a4f94)
+
+<img src="https://lastfm.freetls.fastly.net/i/u/ar0/fcb861503cf246f8abc26d05b7f55707.jpg" height="200"/>
+
+ [Hirokazu Koshio | ZUNTATA |](https://open.spotify.com/artist/78dDLIBQRjfGrwWHPzyGvk?si=09652e6e1f59418d)
+
+<img src="https://pbs.twimg.com/profile_images/1665395626/cosio_reasonably_small.gif" height="200"/>
+
+ [COSIO](https://open.spotify.com/artist/0FEE6TY5DhlkJ8Bsp2Xu5T?si=6cd906f347e04efa)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsObGQyMJ5zrWgkUs_PmUgdKZK2UVIF01vU5pisIA9NOOVxiKM&s" height="200"/>
+
+ [ikaruga_nex](https://open.spotify.com/artist/7APbCMokJLK8dQjm2fK6Vp?si=1f67dbe009ab42e0)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVn32Il7kStz1YZNw0C7UZxGPsUmSfRnmQLq-jC4qNoSD0T8I&s" height="200"/>
+
+ [Imperial Circus Dead Decadence](https://open.spotify.com/artist/5bgW1AysTzHav20snaPkyp?si=8108bdcabcb84d58)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvJugmUMmwny8Ld7tfoWIfWz6JiqRuIC6OcWA3oh_k5I64WzLI&s" height="200"/>
+
+ [IOSYS](https://open.spotify.com/artist/7lw3txgTpihF2On2QVtldq?si=40acaa5f88074f1a)
+
+<img src="https://remywiki.com/images/thumb/c/cf/Wac.jpg/200px-Wac.jpg" height="200"/>
+
+ [Jun Wakita](https://open.spotify.com/artist/4GnlUQF9clWmZJXSCRXHJF?si=1bguGty9STm2S3Ijga280g)
+
+<img src="https://i1.sndcdn.com/avatars-000003485374-3soicj-t500x500.jpg" height="200"/>
+
+ [Junk](https://open.spotify.com/artist/5tR5EAVOTNLdRojz8WkcQx?si=kNEJAUNESD24GkNiKEuM4w)
+
+<img src="https://i1.sndcdn.com/avatars-QAExvuf5OskKPAyx-752uzA-t200x200.jpg" height="200"/>
+
+ [Katagiri | かたぎり](https://open.spotify.com/artist/5duYVbF1t32VmVaI33fYAS?si=RvHPcqNpTFygvk0kxzqHlQ)
+
+<img src="https://c.tenor.com/T_UAKP5dGA4AAAAi/kobairo-kobaryo.gif" height="200"/>
+
+ [Kobaryo](https://open.spotify.com/artist/1Y81Ch90opScfpMfN17lZb?si=0ccf19138e1c4627)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvoBxMyN3RoFLXGJ45yAWAlV3bPR-EKzmpi2HhtMgSZXO4UvE&s" height="200"/>
+
+ [kors k](https://open.spotify.com/artist/667AP6niAXUnJkkum46TvZ?si=08332aa5674e4aa8)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuwuRz-V_9b-EUzwz-uz1mA0KfuxSUgTCUnNwMGsVTy43ph4ad&s" height="200"/>
+
+ [Kurokotei | 黒皇帝](https://open.spotify.com/artist/3AjRXPf1FkulZmsWdOYBf5?si=05c12cd4a14b479f)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQov9A-ei4HO49-WERC4pQI45g3wk2rJQMrUg75WG1rEyOUeCK1&s" height="200"/>
+
+ [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3?si=f5a07b81face4192)
+
+<img src="https://remywiki.com/images/thumb/c/c6/WeareLSM.jpg/400px-WeareLSM.jpg" height="200"/>
+
+ [Lite Show Magic](https://open.spotify.com/artist/7hlPJUqB3Wkpr5WLHLC573?si=14a0fc4d751f47e3)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_uMjnb_w-D_pS8QMQP73mBRDQVhXXHGGWLdPx5KXj0OYK-rY&s" height="200"/>
+
+ [m1dlet](https://open.spotify.com/artist/1YGGaZxHAKqyI1Knqq5mFQ?si=8cef5a281f864bb6)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUjDOE6MKTg-DplDvJgOErA4f8tWEp0mwIG-yxgTRnXphGSV6H&s" height="200"/>
+
+ [M2U](https://open.spotify.com/artist/2wTNs9AmIOv5Fjs66HK1tV?si=711d0c01e9e34136)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOQ5ArT4RBcCsJV1f8BwHpnozvEUpgfhH9TxAxHUbi1B10luI&s" height="200"/>
+
+ [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN?si=c17dfe54a0b446b4)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrbV5wBlBerMxVEhdOoW_-u98Q_NYIp4RGjaIJteMYfe9yt_A&s" height="200"/>
+
+ [Mayumi Moringa | Prim](https://open.spotify.com/artist/2iQejuii666Qz0TJvkPoCD?si=f1f7fac7ad10432d)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToSrH0eioy29-yS-4zpGAe464-eD_z20cg5eNgy8LOymAgJmIE&s" height="200"/>
+
+ [Moe shop](https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ?si=9441fdb5ca334a31)
+
+<img src="https://i1.sndcdn.com/avatars-T99TSds9Di4L2HmS-0yLnEQ-t500x500.jpg" height="200"/>
+
+ [Morimori Atsushi](https://open.spotify.com/artist/3EhfoUSyEJ3yEVzSU7LBNe?si=824200d1dc8d449e)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS9fT08YI-G-ISrLqf_at3j1j2woT28HeTlFsp2M0Cr92hIiii&s" height="200"/>
+
+ [Nanawoakari](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn?si=eda0c00ffce24608)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9pv8O3d24id4qA2TVGUm6uoMF4_vXUTcCPeAQiETIC-juPRY&s" height="200"/>
+
+ [Naoyuki Sato  | 猫叉Master](https://remywiki.com/Naoyuki_Sato)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzUDjJ0bdnaH1SaGc1gEB5cQqyngPy7_jyOFfYPi2kpfvQiyBL&s" height="200"/>
+
+ [Neko Hacker](https://open.spotify.com/artist/2aQ9IoRPwXEhhBVj4wbS46?si=d6dc0675b3204162)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGldagux1BhFussvhOKCYfETDc58iycNHb6gJ86SmVLDh0nr4P&s" height="200"/>
+
+ [nora2r](https://open.spotify.com/artist/2w6fOiIppkVrA659vJN89h?si=6838076a37eb42b9)
+
+<img src="https://yt3.ggpht.com/ytc/AKedOLQiLu0lQnAlzu71ufPzNnYd3yS5u5PJBrWGt9G5=s900-c-k-c0x00ffffff-no-rj" height="200"/>
+
+ [owl*tree](https://open.spotify.com/artist/3Mws7pLUcCq69go78heq9p?si=b534a899be7d434c)
+
+<img src="https://img.discogs.com/cVP-ByCbBYo4D4_ZYUiHxj2pEWw=/500x500/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-892191-1322315204.jpeg.jpg" height="200"/>
+
+ [P*Light](https://open.spotify.com/artist/7A5iW5McqgmSz4uV12zw5J?si=efdde292919f4dfa)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS-M5j_wP8GTGwvRUwt9nWId2uhGGTPUXgHtYbUpacM7E3Lm_3&s" height="200"/>
+
+ [PSYQUI](https://open.spotify.com/artist/3p8H8HTn04KXh2NRzhKScl?si=5c1b517617cf45a4)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4KpUNANQhK_LvdIodAuEVMejLrvZVzbRe8N4E5hwRe2d5IT0&s" height="200"/>
+
+ [Quick Brown Fox](https://open.spotify.com/artist/5dp0fbyRSD22XTvsdeLeaY?si=6ce8025cf3cb445e)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBvChu_LKHLwB3uY98s42c8C2UXypOKj3pJkRgm__JVWvd5cE&s" height="200"/>
+
+ [RD-Sounds](https://open.spotify.com/artist/1Y4p4gln4fqE3LKdkzOz0f?si=6b5ffe6e98774967) | [凋叶棕](https://open.spotify.com/artist/1eavaF4JYVytwilMtljNhO?si=ncQTjs8mRayHcvelzKNGGw)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlUUPwTXIuWZYDy7xDXks9P0_kKnskexZzd8E5V-laX4X0n1A&s" height="200"/>
+
+ [REDALiCE](https://open.spotify.com/artist/3m63JSv6jhLEKNXcEd5EUK?si=83ea8615f93d47df)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUa8yOZA1WnFFzzGD0Jr4f8SM0JpQhS3mh1xHI1UAQnxeY-MI&s" height="200"/>
+
+ [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ?si=f8bfc9ed646c4afc)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS29ZqF_3oMCpPknebMIgb0V8m425zaZs7rFJ0aPagIwBy4Lc&s" height="200"/>
+
+ [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO?si=622640ed239d44d5)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ23rzRLyTFkcOTKzTNYWeb_VWWanBOf3nDmOmkF6wddjyysTCF&s" height="200"/>
+
+ [Ryo(supercell)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX?si=e02f33a90a9c40d3)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKJteD3oM24THDTaf9EQoPDnATk_6Rn-p_wJvZN30ATG3d3X06&s" height="200"/>
+
+ [Ryu☆](https://open.spotify.com/artist/4gDlrL7n3hUaweCjBwVSzj?si=4hr_Mj8dT-2ohsnLYFjn4Q)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2hUMMEZy0K8xQjOcP5vx6nf26nCjI61IBo1iu0itayIo-z5U&s" height="200"/>
+
+ [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2?si=968474d94bbd4221)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwl8511uARUX5OOq78VEQA1utwNsL7bgCWaiueH8MVHPru-pFa&s" height="200"/>
+
+ [SASAKURE.uk](https://open.spotify.com/artist/6nqR1MdjPNXu5KSdeqJBI1?si=499b83713b424018)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS969ZbhHiamRTFQ0O6L8-bYsIjgo8EXr6KKAQxN32lJKtyhg_3&s" height="200"/>
+
+ [Silentroom](https://open.spotify.com/artist/7LLBCtTpnXXkY6AvW0Qjy9?si=076ab01ab3ba42c8)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbq1VoJI-WcvXRZkL3cL-aV5hcwkbIzZkg3CJzV3agwZOYKr4&s" height="200"/>
+
+ [SOOOO](https://open.spotify.com/artist/59TISvIGG8NmedxlcEYSWu?si=5a28f2f79a3e4a73)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnsZZSVnwcLysIog2w7MOa3lWLoH2x3y0WItsP_0uqYf5oUMfN&s" height="200"/>
+
+ [Sota Fujimori](https://open.spotify.com/artist/0IhucRUI5QnAsHmw3G9I9v?si=5397224a698948d6)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlvLppPglbm-RclOs8jPELLTpQMkUKp2GZMFkcILs-isKL01A1&s" height="200"/>
+
+ [Srav3R](https://open.spotify.com/artist/5doDHBkL33VHZXcqAuQBj0?si=fc0fb5fabfef4657)
+
+<img src="https://media.vgm.io/artists/45/2454/2454-1481647430.png" height="200"/>
+
+[Taishi](https://open.spotify.com/artist/5cv7w3Fjid2lE7Srf7b2hT?si=b14eb2518d9240d0)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4WQ8ypUUZpb4u2K2JYqBE6eMAbA26RdlLn-AzxucCNnBAWvQ&s" height="200"/>
+
+ [Takeaki Wada](https://open.spotify.com/artist/1KrYz7M24ir3cJGcDYMyyu?si=7b79286ea4f84172) | [KurageP](https://open.spotify.com/artist/1GxBZsRNgsxf88VxjAVuKU?si=416944186fde4824)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWF4l53nQG9uugOVPAJwX-Z0sL0ehyYmdh6kIhbf8apCGG0rk&s" height="200"/>
+
+ [TANUKI](https://open.spotify.com/artist/5n3X0T0RlvRxUR6l9dBwB8?si=485a6ee8e8814976)
+
+<img src="https://remywiki.com/images/1/1c/Tatsh.jpg" height="200"/>
+
+ [Tatsuya Shimizu | tatsh](https://open.spotify.com/artist/3qQ77y3zH3qIjq38LfxQ8c?si=poUdyHBmTqiEctq4SOzKvA)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWkwH8k95ceZkfkt6xZV_6DQaEVrDPMYB6dzudeItRVruNVMY&s" height="200"/>
+
+ [Team Grimoire](https://open.spotify.com/artist/3JL2xJoZQDP7NjNiEmVpfa?si=1a3f867513644b1a)
+
+<img src="https://i1.sndcdn.com/avatars-9nQGGew4x3jcZU7k-aBBj0A-t500x500.jpg" height="200"/>
+
+ [Thaehan](https://open.spotify.com/artist/2n0sjgdrfHYJT6B39cdvWW?si=945f9719e3f949c1)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL7Vs3Nrl1yLNJs0x22Yr20Xb_4AjmaF8txtxfn3vtRzHzDFqN&s" height="200"/>
+
+ [TORIENA](https://open.spotify.com/artist/569Tg9s0Rv7EpI7zufTs2i?si=25d36ee2030c41dc)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiE5ByLgYkcM6WRC6NLnLDNZT7jDXrVPALyCQXtzh5KjxeHec&s" height="200"/>
+
+ [Umeboshi chazuke](https://open.spotify.com/artist/73m2j87v34bHHXTu55XatF?si=1523b3507c944f45)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWQWS2hibslmwpARokKJRozF98sRVcnui9TpbDFBud5cBp7WIX&s" height="200"/>
+
+ [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI?si=396ed66bf7a146a8)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPLCH1rqJBTxmMVaeVDVs14eESwZ3HTzK1VotMA3BRNQQmSsZq&s" height="200"/>
+
+ [wowaka](https://open.spotify.com/artist/65MYE6R7PCyVAhHrQploNT?si=ab3f202bc9cc41c7)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCupcdi9RL-3V41RxsxT85LzOvhfqbaN0P9biNGoi2Vjvvh-U&s" height="200"/>
+
+ [Xystran](https://open.spotify.com/artist/7wBN9cf6RvHPfryy3A3Ikz?si=sMCc_FoeTXWSgQYsThcE3Q)
+
+<img src="https://remywiki.com/images/3/31/TAG.jpg" height="200"/>
+
+ [Yasuhiro Taguchi | TAG](https://www.youtube.com/watch?v=czWeHxnZxvI&list=RDEMHI_hH2K5MeXiSDOev5eO_A&start_radio=1)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRydrznw_rHjri9_cOf7NTFr7xSXIR5Wf17gBy4PVhiGeErizZL&s" height="200"/>
+
+ [Yooh](https://open.spotify.com/artist/1M3Nrg5KLgJTxCbwQYl0sG?si=77f29da0eeb642e4)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_q8odQ0K11GyIlJG9AQpXc1c0ajzocIV3WaU9a1ZLF-Tp_D8x&s" height="200"/>
+
+ [YUC'e](https://open.spotify.com/artist/0jP8a2o9Mw5qYoUz1SnQ2A?si=2bf0141b255e48b2)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReMFFxR5o-tnhFo0Qyo6y42myIyWUUHXAA3cfxYTTUYTV4tHc&s" height="200"/>
+
+ [Yunomi](https://open.spotify.com/artist/2j00CVYTPx6q9ANbmB2keb?si=4dd1216de9da4a55)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNLWajbrF0vwiCK5vOS7LcRnmFBczDVguEzDFXlvbtntUB_j_6&s" height="200"/>
+
+ [Yuyoyuppe](https://open.spotify.com/artist/43SpPuptZj45KCN2EHWHDW?si=b36e267367954c61)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVHSRnOHivrWRybt922vPEc5sT24sZRkNabBaRYMbU8Btj66QV&s" height="200"/>
+
+ [Zekk](https://open.spotify.com/artist/6ImFfiM17Sg4T56akzOnu1?si=5f062aad02cc4e11)  
 (eristocrates here, my bias compells me to suggest TANUKI's [old jcore remix album](https://tanukimusic.bandcamp.com/album/old-j-core-remixes-10-14), it's so fucking good)
