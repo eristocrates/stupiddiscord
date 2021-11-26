@@ -78,12 +78,9 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbq1VoJI-WcvXRZkL3cL-aV5hcwkbIzZkg3CJzV3agwZOYKr4&s" height="200"/> [SOOOO](https://open.spotify.com/artist/59TISvIGG8NmedxlcEYSWu?si=5a28f2f79a3e4a73)
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnsZZSVnwcLysIog2w7MOa3lWLoH2x3y0WItsP_0uqYf5oUMfN&s" height="200"/> [Sota Fujimori](https://open.spotify.com/artist/0IhucRUI5QnAsHmw3G9I9v?si=5397224a698948d6)
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlvLppPglbm-RclOs8jPELLTpQMkUKp2GZMFkcILs-isKL01A1&s" height="200"/> [Srav3R](https://open.spotify.com/artist/5doDHBkL33VHZXcqAuQBj0?si=fc0fb5fabfef4657)
-
 <img src="https://media.vgm.io/artists/45/2454/2454-1481647430.png" height="200"/>[Taishi](https://open.spotify.com/artist/5cv7w3Fjid2lE7Srf7b2hT?si=b14eb2518d9240d0)
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4WQ8ypUUZpb4u2K2JYqBE6eMAbA26RdlLn-AzxucCNnBAWvQ&s" height="200"/> [Takeaki Wada](https://open.spotify.com/artist/1KrYz7M24ir3cJGcDYMyyu?si=7b79286ea4f84172) | [KurageP](https://open.spotify.com/artist/1GxBZsRNgsxf88VxjAVuKU?si=416944186fde4824)
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWF4l53nQG9uugOVPAJwX-Z0sL0ehyYmdh6kIhbf8apCGG0rk&s" height="200"/> [TANUKI](https://open.spotify.com/artist/5n3X0T0RlvRxUR6l9dBwB8?si=485a6ee8e8814976)
-
-(eristocrates here, my bias compells me to suggest TANUKI's [old jcore remix album](https://tanukimusic.bandcamp.com/album/old-j-core-remixes-10-14), it's so fucking good)
 <img src="https://remywiki.com/images/1/1c/Tatsh.jpg" height="200"/> [Tatsuya Shimizu | tatsh](https://open.spotify.com/artist/3qQ77y3zH3qIjq38LfxQ8c?si=poUdyHBmTqiEctq4SOzKvA)
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWkwH8k95ceZkfkt6xZV_6DQaEVrDPMYB6dzudeItRVruNVMY&s" height="200"/> [Team Grimoire](https://open.spotify.com/artist/3JL2xJoZQDP7NjNiEmVpfa?si=1a3f867513644b1a)
 <img src="https://i1.sndcdn.com/avatars-9nQGGew4x3jcZU7k-aBBj0A-t500x500.jpg" height="200"/> [Thaehan](https://open.spotify.com/artist/2n0sjgdrfHYJT6B39cdvWW?si=945f9719e3f949c1)
@@ -97,4 +94,5 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_q8odQ0K11GyIlJG9AQpXc1c0ajzocIV3WaU9a1ZLF-Tp_D8x&s" height="200"/> [YUC'e](https://open.spotify.com/artist/0jP8a2o9Mw5qYoUz1SnQ2A?si=2bf0141b255e48b2)
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReMFFxR5o-tnhFo0Qyo6y42myIyWUUHXAA3cfxYTTUYTV4tHc&s" height="200"/> [Yunomi](https://open.spotify.com/artist/2j00CVYTPx6q9ANbmB2keb?si=4dd1216de9da4a55)
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNLWajbrF0vwiCK5vOS7LcRnmFBczDVguEzDFXlvbtntUB_j_6&s" height="200"/> [Yuyoyuppe](https://open.spotify.com/artist/43SpPuptZj45KCN2EHWHDW?si=b36e267367954c61)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVHSRnOHivrWRybt922vPEc5sT24sZRkNabBaRYMbU8Btj66QV&s" height="200"/> [Zekk](https://open.spotify.com/artist/6ImFfiM17Sg4T56akzOnu1?si=5f062aad02cc4e11)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVHSRnOHivrWRybt922vPEc5sT24sZRkNabBaRYMbU8Btj66QV&s" height="200"/> [Zekk](https://open.spotify.com/artist/6ImFfiM17Sg4T56akzOnu1?si=5f062aad02cc4e11)  
+(eristocrates here, my bias compells me to suggest TANUKI's [old jcore remix album](https://tanukimusic.bandcamp.com/album/old-j-core-remixes-10-14), it's so fucking good)
