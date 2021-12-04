@@ -18,8 +18,8 @@ ID: 923057108
 silorcity  
 ID: 712653808
 ![](https://github.com/eristocrates/stupiddiscord/blob/main/img/silorcity.png)
-Nekoboiz
-ID: 883929439
+Nekoboiz  
+ID: 883929439  
 ![](https://github.com/eristocrates/stupiddiscord/blob/main/img/derp.png)
 ooblec
 ID: 262781693
