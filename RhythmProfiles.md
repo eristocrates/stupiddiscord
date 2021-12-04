@@ -14,7 +14,7 @@ ID: 058498739
 ![](https://github.com/eristocrates/stupiddiscord/blob/main/img/pancakes.jpg)
 SiameseDerp  
 ID: 923057108
-![](https://github.com/eristocrates/stupiddiscord/blob/main/img/pancakes.jpg "Based Rainbow Sloth")
+![](https://github.com/eristocrates/stupiddiscord/blob/main/img/derp.jpg "Based Rainbow Sloth")
 silorcity  
 ID: 712653808
 ![](https://github.com/eristocrates/stupiddiscord/blob/main/img/silorcity.png)
