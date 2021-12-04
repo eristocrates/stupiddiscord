@@ -21,8 +21,8 @@ ID: 712653808
 Nekoboiz  
 ID: 883929439  
 ![](https://github.com/eristocrates/stupiddiscord/blob/main/img/derp.png)
-ooblec
-ID: 262781693
+ooblec  
+ID: 262781693  
 ![](https://github.com/eristocrates/stupiddiscord/blob/main/img/ooblec.jpg)
 # D4DJ
 
