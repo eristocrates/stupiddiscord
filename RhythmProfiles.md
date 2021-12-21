@@ -4,7 +4,7 @@ dvex
 ID: 888169769
 ![](https://github.com/eristocrates/stupiddiscord/blob/main/img/dvex.png)
 eristocrates  
-ID: 2124554543
+ID: 212454543
 ![](https://github.com/eristocrates/stupiddiscord/blob/main/img/eristocrates.jpg)
 Jord  
 ID: 955637881
