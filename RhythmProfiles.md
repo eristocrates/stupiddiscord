@@ -26,7 +26,7 @@ ID: 262781693
 ![](https://github.com/eristocrates/stupiddiscord/blob/main/img/ooblec.jpg)
 ビーエス[BS]  
 ID: 318898151  
-![](https://cdn.discordapp.com/attachments/879472415682490408/924490071892164618/Screenshot_20211226-113217_Arcaea.png)
+![](https://cdn.discordapp.com/attachments/879472415682490408/924491520831287326/Screenshot_20211226-113900_Arcaea.png)
 # D4DJ
 
 A Wandering Onee-Chan  
